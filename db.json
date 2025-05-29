@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Amit",
+      "lastName": "Shetty",
+      "email": "amit@gmail.com",
+      "dob": "1997-05-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 4,
+      "package": "12",
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test1",
+      "email": "test@hotmail.com",
+      "dob": "2000-02-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 10,
+      "package": 12,
+      "id": 2
+    }
+  ]
+}
