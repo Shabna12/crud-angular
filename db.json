@@ -30,15 +30,15 @@
       "id": 1
     },
     {
-      "firstName": "Test",
-      "lastName": "Test1",
-      "email": "test@hotmail.com",
+      "firstName": "das",
+      "lastName": "happy",
+      "email": "sad@hotmail.com",
       "dob": "2000-02-01T18:30:00.000Z",
       "gender": "male",
-      "education": "Graduate",
-      "company": "Google",
-      "experience": 10,
-      "package": 12,
+      "education": "Post Graduate",
+      "company": "micro",
+      "experience": 4,
+      "package": 10,
       "id": 2
     }
   ]
